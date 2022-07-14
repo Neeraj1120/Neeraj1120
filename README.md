@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neeraj1120
 - 👀 I’m interested in Arduino Microcontroller
-- 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on Projects on Arduino
+- 🌱 I’m currently Pursuing Electrical Engineering
+- 💞️ I’m looking to collaborate on Projects on Arduino and controllers
 - 📫 How to reach me ...
 
 <!---
